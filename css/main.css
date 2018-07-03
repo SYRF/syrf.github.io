@@ -1754,10 +1754,6 @@ pre .javascript .function {
   -moz-transition: -moz-transform 1s ease-out;
   transition: transform 1s ease-out;
 }
-.site-author-name {
-  display: block;
-  margin: 0 auto;
-}
 img:hover {
 /* 鼠标经过停止头像旋转 
   -webkit-animation-play-state:paused;
@@ -1919,7 +1915,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e7dd14;
+  background: #b53069;
 }
 .links-of-blogroll {
   font-size: 13px;
